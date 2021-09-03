@@ -47,7 +47,7 @@ Descargar el archivo de especificacions: Examen POO Moviles 2021-2022 PPA
 
 >> _Seleccionar navegador_
 
->><img src="https://github.com/ANTHONYPACHAY/OJS_Mobile_APP/blob/master/app/src/main/res/drawable/a3.png?raw=true" alt="inicio" Height="400"/>
+>><img src="https://github.com/ANTHONYPACHAY/OJS_Mobile_APP/blob/master/app/src/main/res/drawable/a4.png?raw=true" alt="inicio" Height="400"/>
 
 >> _Vista de documentos en el navegador_
 
